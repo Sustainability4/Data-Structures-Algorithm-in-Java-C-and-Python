@@ -10,10 +10,25 @@ S. No.  | Topics to Start With
 # File Structure 
 
 
-.
-├── Patterns 
-│   ├── Java
-│   ├── Python
-│   └── C++
+ .
+    ├── Patterns                # Patterns will include the code for all the pattern problems in all the three languages
+    └── README.md
 
 This is the basic structure of the repository which will be the case for every such learning block. Java, Python and C++ will further host solutions to various problems within the github repository. 
+
+# Problems Solved and Commited to the Repository 
+
+Patterns 
+
+S. No.  | Topics to Start With 
+------------- | -------------
+1.   | Patternify : CodeZen by Coding Ninjas 
+
+
+# Follow me 
+
+Platform  | Link
+------------- | -------------
+Code Zen   | https://www.codingninjas.com/codestudio/profile/6185026d-6829-4f4c-83e2-ed67dac26e27
+Linkedin   | 
+
