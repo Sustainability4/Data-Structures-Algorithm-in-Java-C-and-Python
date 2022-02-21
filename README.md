@@ -32,7 +32,12 @@ Patterns
 
 S. No.  | Topics to Start With 
 ------------- | -------------
-1.   | Patternify : CodeZen by Coding Ninjas 
+1.   | Patternify :https://www.codingninjas.com/codestudio/problems/pattern_ify_893282 
+
+
+# Total Problems Solved 
+
+Total Tally : 1
 
 
 # Follow me 
