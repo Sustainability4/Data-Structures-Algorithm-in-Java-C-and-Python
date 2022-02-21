@@ -69,3 +69,36 @@ Test Case 2:
 Given ‘N’ = 2
 First-line will contain 2 ‘*’ while the second line will contain 1 ‘*’ as per description.
 */
+
+
+public class Solution {
+	public static String[] printPatt(int n) {
+		// Defining String
+		String answer[] = new String[n];
+        // Lets get the index of this string 
+        int index = 0;
+        
+        // Lets get a string 
+        String str = "";
+        
+        for(int i = 0; i<n ; i++){
+            str += ("*");
+        }
+        
+        for (int i = 1; i <= n; i++) {
+
+			// Append current string to answer
+			answer[index++] = str;
+
+			// Decrese length of string by 1
+			str = str.substring(0, str.length() - 1);
+		}
+        
+        return answer;
+	}
+
+}
+
+
+
+  
