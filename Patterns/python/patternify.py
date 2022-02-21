@@ -69,3 +69,18 @@ Test Case 2:
 Given ‘N’ = 2
 First-line will contain 2 ‘*’ while the second line will contain 1 ‘*’ as per description.
 """
+
+# Main def function code to generate the pattern. Practice writing the rest of the piece on your own 
+# This code takes in the value of n which is basically the value of number of rows for which the star should be printed 
+# It takes a just one catch to generate this logic : How the number of stars relates to the row number ? 
+
+# CodeZen Link : https://www.codingninjas.com/codestudio/problems/pattern_ify_893282
+
+def printPatt(n):
+	# Just look at the below logic. I have appened the stars to a list of which each element would be printed in the new line 
+    ans = []
+    for i in range(n):
+        s = "*"*(n-i)
+        ans.append(s)
+        
+    return ans
