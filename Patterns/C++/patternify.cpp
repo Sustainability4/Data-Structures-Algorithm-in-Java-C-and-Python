@@ -69,3 +69,38 @@ Test Case 2:
 Given ‘N’ = 2
 First-line will contain 2 ‘*’ while the second line will contain 1 ‘*’ as per description.
 */
+
+/* Time Complexity O(n^2)
+	Space Complexity O(n^2)
+    */
+
+vector<string> printPatt(int n)
+{
+    //We need to return a vector in this case. 
+    // We have defined a one dimensional vector 
+    vector<string> v;
+	// Creating a string str that will comtain the stars of 
+    // a particular row. 
+    string str; 
+    
+    // Now we are creating a string with n stars. Lets say 
+    // n was 4. We created a string now with 4 stars. 
+    // so, str = "****"
+    for (int i = 0; i<n ; i++){
+        str.push_back('*');
+    }
+    
+    // We will push_back this str to the vector v 
+    // v = ["****"]
+    // then we will pop one star from the string and then 
+    // again do the push_back 
+    // v = ["****","***"]
+    
+    for(int i = 1; i<n; i++){
+        v.push_back(str);
+        str.pop_back();
+    }
+    
+    return v; 
+}
+
