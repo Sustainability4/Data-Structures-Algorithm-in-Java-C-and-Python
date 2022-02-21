@@ -11,7 +11,7 @@ S. No.  | Topics to Start With
 
 
      .
-    ├── Patterns                   # Compiled files (alternatively `dist`)
+    ├── Patterns                   
                ├── Java
                ├── Python
                ├── C++          
