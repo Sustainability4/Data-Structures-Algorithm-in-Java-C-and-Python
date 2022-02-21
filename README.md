@@ -8,9 +8,9 @@ S. No.  | Topics to Start With
 
 
 # File Structure 
-$ tree -d
 
-Data Structures Algorithm in Java, C++ and Python
+
+.Data Structures Algorithm in Java, C++ and Python
 ├── Patterns 
 │   ├── Java
 │   ├── Python
