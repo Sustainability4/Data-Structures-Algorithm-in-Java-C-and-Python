@@ -10,7 +10,7 @@ S. No.  | Topics to Start With
 # File Structure 
 
 
-.Data Structures Algorithm in Java, C++ and Python
+.
 ├── Patterns 
 │   ├── Java
 │   ├── Python
