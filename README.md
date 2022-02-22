@@ -1,17 +1,17 @@
 # Data-Structures-Algorithm-in-Java-C-and-Python
-This repository will be a full fledged guide on learning Data Structure and Algorithms in three important language frameworks viz Java, Python and C++
+This repository will be a full fledged guide on learning Data Structure and Algorithms in three important language frameworks viz Java, Python and C++. It will involve the questions from InterviewBit and Coding Ninjas DS Algo course 
 
 # Structure to be followed by a complete beginner to learn DS Algorithms 
 S. No.  | Topics to Start With 
 ------------- | -------------
-1.   | Patterns : Patterns are the most basic types of questions to start your learning journey in DS Algo. These will help you to figure out some nuances and use techniques with various languages in which you program. 
+1.   | Arrays : InterviewBit Level 2, This will also involve the questions from the coding ninjas course  
 
 
 # File Structure 
 
 
      .
-    ├── Patterns                   
+    ├── Arrays                   
                ├── Java
                ├── Python
                ├── C++          
@@ -28,7 +28,7 @@ This is the basic structure of the repository which will be the case for every s
 
 # Problems Solved and Commited to the Repository 
 
-Patterns 
+Arrays 
 
 S. No.  | Topics to Start With 
 ------------- | -------------
@@ -45,5 +45,6 @@ Total Tally : 1
 Platform  | Link
 ------------- | -------------
 Code Zen   | https://www.codingninjas.com/codestudio/profile/6185026d-6829-4f4c-83e2-ed67dac26e27
+InterviewBit | rohan-sharma_452
 Linkedin   | 
 
